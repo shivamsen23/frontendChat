@@ -1,0 +1,38 @@
+.nav{
+    background-color: rgb(149, 179, 149);}
+
+    .logo{
+        position: absolute;
+        left: 3%;
+        top: 15%;
+    }
+
+    .login {
+        background-color: rgb(170, 187, 170);
+        border: 1px solid #000;
+        color: black;
+        border-radius: 20px;
+        padding: 5px 15px;
+        font-size: 22px;
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .login:hover {
+        background-color: transparent;
+        color: #fff;
+      }
+
+      .chat {
+        background-color: rgb(170, 187, 170);
+        border: 1px solid #000;
+        color: black;
+        border-radius: 20px;
+        padding: 5px 15px;
+        font-size: 22px;
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .chat:hover {
+        background-color: transparent;
+        color: #fff;
+      }
